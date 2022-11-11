@@ -1,8 +1,10 @@
 ## 👋 привет, меня завут Тимофей
-- 👀 мне нравятся *компьютерные игры*
+- 🏙 я живу в ***Москве***
+- 👀 мне нравятся *компьютерные игры* 
 - 🌱 сейчас я учусь в **тк 21**
 - 🖥 я хочу стать программистом
 - 📫 со мной можно связаться ***tihonskiitim@gmail.com***
+- 
 <!---
 marin2110/marin2110 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes
